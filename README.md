@@ -2,7 +2,9 @@
 
 Visualisation packages are a critical component in any data scientist's toolkit. They help in understanding the data and in finding __patterns__ and __outliers__ that are not immediately obvious from tabular data. They are also integral in evaluating the __performance__ of learning algorithms. This is why it can be beneficial to try new offerings like __Plotly__ and consider if incorporating them into a workflow would be beneficial.
 
+<p align="center" markdown="1">
 ![3d regression plane](http://www.3leafnodes.com/assets/images/plotly/3d-regression-plane.png)
+</p>
 
 
 ## Plotly Overview
